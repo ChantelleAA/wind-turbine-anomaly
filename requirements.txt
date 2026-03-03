@@ -4,3 +4,4 @@ pandas==3.0.1
 pyspark==3.5.0
 scikit_learn==1.8.0
 torch==2.9.0
+mlflow
