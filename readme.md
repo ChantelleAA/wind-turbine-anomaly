@@ -1,7 +1,7 @@
 # Wind Turbine Anomaly Detection Pipeline
 
 End-to-end anomaly detection pipeline for **multivariate wind turbine SCADA time-series** (batch + inference), built as part of my PhD work in AI for offshore wind energy.
-
+                                                                                                                                                 
 This repo focuses on:
 - scalable ingestion/feature engineering (Spark-friendly)
 - anomaly detection (Isolation Forest baseline + LSTM Autoencoder)
